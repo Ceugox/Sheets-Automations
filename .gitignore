@@ -11,6 +11,9 @@ Output/*.xlsx
 Output/*
 !Output/.gitkeep
 
+# Ignore old output folder if present
+Planilhas geradas/
+
 # Ignore input base files (User data privacy)
 Planilha Base/*.xlsx
 Planilha Base/*

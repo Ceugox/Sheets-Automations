@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore compiled python files
+__pycache__/
+*.py[cod]
+
+# Ignore generated output files (Excel)
+Output/*.xlsx
+Output/*
+!Output/.gitkeep
+
+# Ignore input base files (User data privacy)
+Planilha Base/*.xlsx
+Planilha Base/*
+!Planilha Base/.gitkeep
+
+# Ignore system files
+.DS_Store
+Thumbs.db

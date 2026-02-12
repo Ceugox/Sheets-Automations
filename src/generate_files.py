@@ -56,7 +56,7 @@ def process_file(file_path):
             'Lembrete': (get_val(df_info, 51, 2), get_val(df_info, 52, 2)),
             'Remarketing Vendas': (get_val(df_info, 66, 2), get_val(df_info, 67, 2)),
             'Distribuição de Conteúdo': (None, None),
-            'Remarketing Aulas': (None, None),
+            'Remarketing Aulas': (get_val(df_info, 61, 2), get_val(df_info, 62, 2)),
             'Flash Opening': (None, None)
         }
 

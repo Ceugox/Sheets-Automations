@@ -1,4 +1,4 @@
-# Automação de Briefing - Atlantico Holding
+# Automação de Briefing 
 
 Este projeto automatiza a geração de planilhas de planejamento, campanha e expert a partir de um arquivo de "Briefing" base.
 
